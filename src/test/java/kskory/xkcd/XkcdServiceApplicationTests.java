@@ -1,4 +1,4 @@
-package kskory.xkcdservice;
+package kskory.xkcd;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
